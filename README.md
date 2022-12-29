@@ -17,8 +17,9 @@ The following **required** functionality is completed:
 * [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Buttons that redirect to certain parts of the page
+* [ ] Color changes
+* [ ] Minor on hover changes
 
 ## Video Walkthrough
 
@@ -32,7 +33,7 @@ GIF created with peek
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I hadn't used JavaScript in a bit of time so there was an initial curve in remembering the nuances of destructuring and arrow functions.
 
 ## License
  
@@ -49,4 +50,3 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-/home/isaiah/Codepath/web-102-prework/CodePathPreWork.gif
