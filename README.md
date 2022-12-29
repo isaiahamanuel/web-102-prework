@@ -1,9 +1,9 @@
 # web-102-prework
- WEB102 Prework - *Name of App Here*
+ WEB102 Prework - *Sea Monster Site*
 
 Submitted by: **Isaiah Amanuel**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Site is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **7** hours spent in total
 
